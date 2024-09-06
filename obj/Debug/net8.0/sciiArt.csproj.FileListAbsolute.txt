@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\sciiArt\bin\Debug\net8.0\sciiArt.exe
+C:\Users\user\Documents\GitHub\sciiArt\bin\Debug\net8.0\sciiArt.deps.json
+C:\Users\user\Documents\GitHub\sciiArt\bin\Debug\net8.0\sciiArt.runtimeconfig.json
+C:\Users\user\Documents\GitHub\sciiArt\bin\Debug\net8.0\sciiArt.dll
+C:\Users\user\Documents\GitHub\sciiArt\bin\Debug\net8.0\sciiArt.pdb
+C:\Users\user\Documents\GitHub\sciiArt\obj\Debug\net8.0\sciiArt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\sciiArt\obj\Debug\net8.0\sciiArt.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\sciiArt\obj\Debug\net8.0\sciiArt.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\sciiArt\obj\Debug\net8.0\sciiArt.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\sciiArt\obj\Debug\net8.0\sciiArt.sourcelink.json
+C:\Users\user\Documents\GitHub\sciiArt\obj\Debug\net8.0\sciiArt.dll
+C:\Users\user\Documents\GitHub\sciiArt\obj\Debug\net8.0\refint\sciiArt.dll
+C:\Users\user\Documents\GitHub\sciiArt\obj\Debug\net8.0\sciiArt.pdb
+C:\Users\user\Documents\GitHub\sciiArt\obj\Debug\net8.0\sciiArt.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\sciiArt\obj\Debug\net8.0\ref\sciiArt.dll
